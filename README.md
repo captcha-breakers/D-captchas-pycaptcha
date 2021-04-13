@@ -5,8 +5,7 @@ Time consumed:  165.18922758102417
 ```
 
 # Sample
-<img src="./data/OJNPHV.png" width="200">
-<img src="./data/PLEEPO.png" width="200">
+<img src="./data/OJNPHV.png" width="200"> <img src="./data/PLEEPO.png" width="200">
 <img src="./data/CXWKNZ.png" width="200">
 <img src="./data/HDAKAA.png" width="200">
 <img src="./data/XPFQVU.png" width="200">
